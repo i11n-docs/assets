@@ -1,4 +1,11 @@
 <!-- Copyright integereleven 2025 -->
+
+<p align="center">
+  <a href="/assets" title="Home">Home</a> &nbsp; &nbsp;
+  <a href="/assets/brand-logos" title="Brand logos">Brand logos</a> &nbsp; &nbsp;
+  <a href="/assets/project-logos" title="Project logos">Project logos</a>
+</p>
+
 # Repo banners
 
 ## All repos
