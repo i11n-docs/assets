@@ -1,8 +1,23 @@
+<!-- Copyright integereleven 2025 -->
 <p align="center">
-  <img src="https://docs.i11n.io/assets/img/banners/repo/all/current.svg" alt="integereleven open source news" title="integereleven open source news" />
+  <a href="https://integereleven.com" title="integereleven website">
+    <img
+      alt="integereleven logo"
+      height="70"
+      src="https://docs.i11n.io/assets/img/logos/png/256/brand/text/stroked.v1.png"
+    />
+  </a>
+  <br />
+  <img src="https://docs.i11n.io/assets/img/banners/repo/all/current.svg" alt="integereleven News" title="integereleven News" />
 </p>
 
-# Assets
+<p align="center">
+<!-- Social badges -->
+</p>
 
-Contains assets and common information.
+<p align="center">
+  <a href="/assets/brand-logos" title="Brand logos">Brand logos</a> &nbsp; &nbsp;
+  <a href="/assets/project-logos" title="Project logos">Project logos</a> &nbsp; &nbsp;
+  <a href="/assets/repo-banners" title="Repo banners">Repo banners</a>
+</p>
 
