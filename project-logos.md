@@ -35,11 +35,11 @@
 
 ##### Variants
 
-| Size | Link |
-|------|------|
-| 16   | [https://docs.i11n.io/assets/img/logos/png/16/projects/kz/logo/filled.v1.png](https://docs.i11n.io/assets/img/logos/png/16/projects/kz/logo/filled.v1.png) |
-| 32   | [https://docs.i11n.io/assets/img/logos/png/32/projects/kz/logo/filled.v1.png](https://docs.i11n.io/assets/img/logos/png/32/projects/kz/logo/filled.v1.png) |
-| 64   | [https://docs.i11n.io/assets/img/logos/png/64/projects/kz/logo/filled.v1.png](https://docs.i11n.io/assets/img/logos/png/64/projects/kz/logo/filled.v1.png) |
+| Size | Link                                                                                                                                                         |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 16   | [https://docs.i11n.io/assets/img/logos/png/16/projects/kz/logo/filled.v1.png](https://docs.i11n.io/assets/img/logos/png/16/projects/kz/logo/filled.v1.png)   |
+| 32   | [https://docs.i11n.io/assets/img/logos/png/32/projects/kz/logo/filled.v1.png](https://docs.i11n.io/assets/img/logos/png/32/projects/kz/logo/filled.v1.png)   |
+| 64   | [https://docs.i11n.io/assets/img/logos/png/64/projects/kz/logo/filled.v1.png](https://docs.i11n.io/assets/img/logos/png/64/projects/kz/logo/filled.v1.png)   |
 | 128  | [https://docs.i11n.io/assets/img/logos/png/128/projects/kz/logo/filled.v1.png](https://docs.i11n.io/assets/img/logos/png/128/projects/kz/logo/filled.v1.png) |
 | 256  | [https://docs.i11n.io/assets/img/logos/png/256/projects/kz/logo/filled.v1.png](https://docs.i11n.io/assets/img/logos/png/256/projects/kz/logo/filled.v1.png) |
 | 512  | [https://docs.i11n.io/assets/img/logos/png/512/projects/kz/logo/filled.v1.png](https://docs.i11n.io/assets/img/logos/png/512/projects/kz/logo/filled.v1.png) |
@@ -52,11 +52,11 @@
 
 ##### Variants
 
-| Size | Link |
-|------|------|
-| 16   | [https://docs.i11n.io/assets/img/logos/png/16/projects/kz/logo/stroked.v1.png](https://docs.i11n.io/assets/img/logos/png/16/projects/kz/logo/stroked.v1.png) |
-| 32   | [https://docs.i11n.io/assets/img/logos/png/32/projects/kz/logo/stroked.v1.png](https://docs.i11n.io/assets/img/logos/png/32/projects/kz/logo/stroked.v1.png) |
-| 64   | [https://docs.i11n.io/assets/img/logos/png/64/projects/kz/logo/stroked.v1.png](https://docs.i11n.io/assets/img/logos/png/64/projects/kz/logo/stroked.v1.png) |
+| Size | Link                                                                                                                                                           |
+| ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 16   | [https://docs.i11n.io/assets/img/logos/png/16/projects/kz/logo/stroked.v1.png](https://docs.i11n.io/assets/img/logos/png/16/projects/kz/logo/stroked.v1.png)   |
+| 32   | [https://docs.i11n.io/assets/img/logos/png/32/projects/kz/logo/stroked.v1.png](https://docs.i11n.io/assets/img/logos/png/32/projects/kz/logo/stroked.v1.png)   |
+| 64   | [https://docs.i11n.io/assets/img/logos/png/64/projects/kz/logo/stroked.v1.png](https://docs.i11n.io/assets/img/logos/png/64/projects/kz/logo/stroked.v1.png)   |
 | 128  | [https://docs.i11n.io/assets/img/logos/png/128/projects/kz/logo/stroked.v1.png](https://docs.i11n.io/assets/img/logos/png/128/projects/kz/logo/stroked.v1.png) |
 | 256  | [https://docs.i11n.io/assets/img/logos/png/256/projects/kz/logo/stroked.v1.png](https://docs.i11n.io/assets/img/logos/png/256/projects/kz/logo/stroked.v1.png) |
 | 512  | [https://docs.i11n.io/assets/img/logos/png/512/projects/kz/logo/stroked.v1.png](https://docs.i11n.io/assets/img/logos/png/512/projects/kz/logo/stroked.v1.png) |
@@ -71,11 +71,11 @@
 
 ##### Variants
 
-| Size | Link |
-|------|------|
-| 16   | [https://docs.i11n.io/assets/img/logos/png/16/projects/kz/avatar/filled.v1.png](https://docs.i11n.io/assets/img/logos/png/16/projects/kz/avatar/filled.v1.png) |
-| 32   | [https://docs.i11n.io/assets/img/logos/png/32/projects/kz/avatar/filled.v1.png](https://docs.i11n.io/assets/img/logos/png/32/projects/kz/avatar/filled.v1.png) |
-| 64   | [https://docs.i11n.io/assets/img/logos/png/64/projects/kz/avatar/filled.v1.png](https://docs.i11n.io/assets/img/logos/png/64/projects/kz/avatar/filled.v1.png) |
+| Size | Link                                                                                                                                                             |
+| ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 16   | [https://docs.i11n.io/assets/img/logos/png/16/projects/kz/avatar/filled.v1.png](https://docs.i11n.io/assets/img/logos/png/16/projects/kz/avatar/filled.v1.png)   |
+| 32   | [https://docs.i11n.io/assets/img/logos/png/32/projects/kz/avatar/filled.v1.png](https://docs.i11n.io/assets/img/logos/png/32/projects/kz/avatar/filled.v1.png)   |
+| 64   | [https://docs.i11n.io/assets/img/logos/png/64/projects/kz/avatar/filled.v1.png](https://docs.i11n.io/assets/img/logos/png/64/projects/kz/avatar/filled.v1.png)   |
 | 128  | [https://docs.i11n.io/assets/img/logos/png/128/projects/kz/avatar/filled.v1.png](https://docs.i11n.io/assets/img/logos/png/128/projects/kz/avatar/filled.v1.png) |
 | 256  | [https://docs.i11n.io/assets/img/logos/png/256/projects/kz/avatar/filled.v1.png](https://docs.i11n.io/assets/img/logos/png/256/projects/kz/avatar/filled.v1.png) |
 | 512  | [https://docs.i11n.io/assets/img/logos/png/512/projects/kz/avatar/filled.v1.png](https://docs.i11n.io/assets/img/logos/png/512/projects/kz/avatar/filled.v1.png) |
@@ -88,11 +88,11 @@
 
 ##### Variants
 
-| Size | Link |
-|------|------|
-| 16   | [https://docs.i11n.io/assets/img/logos/png/16/projects/kz/avatar/stroked.v1.png](https://docs.i11n.io/assets/img/logos/png/16/projects/kz/avatar/stroked.v1.png) |
-| 32   | [https://docs.i11n.io/assets/img/logos/png/32/projects/kz/avatar/stroked.v1.png](https://docs.i11n.io/assets/img/logos/png/32/projects/kz/avatar/stroked.v1.png) |
-| 64   | [https://docs.i11n.io/assets/img/logos/png/64/projects/kz/avatar/stroked.v1.png](https://docs.i11n.io/assets/img/logos/png/64/projects/kz/avatar/stroked.v1.png) |
+| Size | Link                                                                                                                                                               |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 16   | [https://docs.i11n.io/assets/img/logos/png/16/projects/kz/avatar/stroked.v1.png](https://docs.i11n.io/assets/img/logos/png/16/projects/kz/avatar/stroked.v1.png)   |
+| 32   | [https://docs.i11n.io/assets/img/logos/png/32/projects/kz/avatar/stroked.v1.png](https://docs.i11n.io/assets/img/logos/png/32/projects/kz/avatar/stroked.v1.png)   |
+| 64   | [https://docs.i11n.io/assets/img/logos/png/64/projects/kz/avatar/stroked.v1.png](https://docs.i11n.io/assets/img/logos/png/64/projects/kz/avatar/stroked.v1.png)   |
 | 128  | [https://docs.i11n.io/assets/img/logos/png/128/projects/kz/avatar/stroked.v1.png](https://docs.i11n.io/assets/img/logos/png/128/projects/kz/avatar/stroked.v1.png) |
 | 256  | [https://docs.i11n.io/assets/img/logos/png/256/projects/kz/avatar/stroked.v1.png](https://docs.i11n.io/assets/img/logos/png/256/projects/kz/avatar/stroked.v1.png) |
 | 512  | [https://docs.i11n.io/assets/img/logos/png/512/projects/kz/avatar/stroked.v1.png](https://docs.i11n.io/assets/img/logos/png/512/projects/kz/avatar/stroked.v1.png) |
@@ -123,11 +123,11 @@
 
 ##### Variants
 
-| Size | Link |
-|------|------|
-| 16   | [https://docs.i11n.io/assets/img/logos/png/16/projects/zds/logo/filled.v1.png](https://docs.i11n.io/assets/img/logos/png/16/projects/zds/logo/filled.v1.png) |
-| 32   | [https://docs.i11n.io/assets/img/logos/png/32/projects/zds/logo/filled.v1.png](https://docs.i11n.io/assets/img/logos/png/32/projects/zds/logo/filled.v1.png) |
-| 64   | [https://docs.i11n.io/assets/img/logos/png/64/projects/zds/logo/filled.v1.png](https://docs.i11n.io/assets/img/logos/png/64/projects/zds/logo/filled.v1.png) |
+| Size | Link                                                                                                                                                           |
+| ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 16   | [https://docs.i11n.io/assets/img/logos/png/16/projects/zds/logo/filled.v1.png](https://docs.i11n.io/assets/img/logos/png/16/projects/zds/logo/filled.v1.png)   |
+| 32   | [https://docs.i11n.io/assets/img/logos/png/32/projects/zds/logo/filled.v1.png](https://docs.i11n.io/assets/img/logos/png/32/projects/zds/logo/filled.v1.png)   |
+| 64   | [https://docs.i11n.io/assets/img/logos/png/64/projects/zds/logo/filled.v1.png](https://docs.i11n.io/assets/img/logos/png/64/projects/zds/logo/filled.v1.png)   |
 | 128  | [https://docs.i11n.io/assets/img/logos/png/128/projects/zds/logo/filled.v1.png](https://docs.i11n.io/assets/img/logos/png/128/projects/zds/logo/filled.v1.png) |
 | 256  | [https://docs.i11n.io/assets/img/logos/png/256/projects/zds/logo/filled.v1.png](https://docs.i11n.io/assets/img/logos/png/256/projects/zds/logo/filled.v1.png) |
 | 512  | [https://docs.i11n.io/assets/img/logos/png/512/projects/zds/logo/filled.v1.png](https://docs.i11n.io/assets/img/logos/png/512/projects/zds/logo/filled.v1.png) |
@@ -140,11 +140,11 @@
 
 ##### Variants
 
-| Size | Link |
-|------|------|
-| 16   | [https://docs.i11n.io/assets/img/logos/png/16/projects/zds/logo/stroked.v1.png](https://docs.i11n.io/assets/img/logos/png/16/projects/zds/logo/stroked.v1.png) |
-| 32   | [https://docs.i11n.io/assets/img/logos/png/32/projects/zds/logo/stroked.v1.png](https://docs.i11n.io/assets/img/logos/png/32/projects/zds/logo/stroked.v1.png) |
-| 64   | [https://docs.i11n.io/assets/img/logos/png/64/projects/zds/logo/stroked.v1.png](https://docs.i11n.io/assets/img/logos/png/64/projects/zds/logo/stroked.v1.png) |
+| Size | Link                                                                                                                                                             |
+| ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 16   | [https://docs.i11n.io/assets/img/logos/png/16/projects/zds/logo/stroked.v1.png](https://docs.i11n.io/assets/img/logos/png/16/projects/zds/logo/stroked.v1.png)   |
+| 32   | [https://docs.i11n.io/assets/img/logos/png/32/projects/zds/logo/stroked.v1.png](https://docs.i11n.io/assets/img/logos/png/32/projects/zds/logo/stroked.v1.png)   |
+| 64   | [https://docs.i11n.io/assets/img/logos/png/64/projects/zds/logo/stroked.v1.png](https://docs.i11n.io/assets/img/logos/png/64/projects/zds/logo/stroked.v1.png)   |
 | 128  | [https://docs.i11n.io/assets/img/logos/png/128/projects/zds/logo/stroked.v1.png](https://docs.i11n.io/assets/img/logos/png/128/projects/zds/logo/stroked.v1.png) |
 | 256  | [https://docs.i11n.io/assets/img/logos/png/256/projects/zds/logo/stroked.v1.png](https://docs.i11n.io/assets/img/logos/png/256/projects/zds/logo/stroked.v1.png) |
 | 512  | [https://docs.i11n.io/assets/img/logos/png/512/projects/zds/logo/stroked.v1.png](https://docs.i11n.io/assets/img/logos/png/512/projects/zds/logo/stroked.v1.png) |
@@ -159,11 +159,11 @@
 
 ##### Variants
 
-| Size | Link |
-|------|------|
-| 16   | [https://docs.i11n.io/assets/img/logos/png/16/projects/zds/avatar/filled.v1.png](https://docs.i11n.io/assets/img/logos/png/16/projects/zds/avatar/filled.v1.png) |
-| 32   | [https://docs.i11n.io/assets/img/logos/png/32/projects/zds/avatar/filled.v1.png](https://docs.i11n.io/assets/img/logos/png/32/projects/zds/avatar/filled.v1.png) |
-| 64   | [https://docs.i11n.io/assets/img/logos/png/64/projects/zds/avatar/filled.v1.png](https://docs.i11n.io/assets/img/logos/png/64/projects/zds/avatar/filled.v1.png) |
+| Size | Link                                                                                                                                                               |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 16   | [https://docs.i11n.io/assets/img/logos/png/16/projects/zds/avatar/filled.v1.png](https://docs.i11n.io/assets/img/logos/png/16/projects/zds/avatar/filled.v1.png)   |
+| 32   | [https://docs.i11n.io/assets/img/logos/png/32/projects/zds/avatar/filled.v1.png](https://docs.i11n.io/assets/img/logos/png/32/projects/zds/avatar/filled.v1.png)   |
+| 64   | [https://docs.i11n.io/assets/img/logos/png/64/projects/zds/avatar/filled.v1.png](https://docs.i11n.io/assets/img/logos/png/64/projects/zds/avatar/filled.v1.png)   |
 | 128  | [https://docs.i11n.io/assets/img/logos/png/128/projects/zds/avatar/filled.v1.png](https://docs.i11n.io/assets/img/logos/png/128/projects/zds/avatar/filled.v1.png) |
 | 256  | [https://docs.i11n.io/assets/img/logos/png/256/projects/zds/avatar/filled.v1.png](https://docs.i11n.io/assets/img/logos/png/256/projects/zds/avatar/filled.v1.png) |
 | 512  | [https://docs.i11n.io/assets/img/logos/png/512/projects/zds/avatar/filled.v1.png](https://docs.i11n.io/assets/img/logos/png/512/projects/zds/avatar/filled.v1.png) |
@@ -176,11 +176,11 @@
 
 ##### Variants
 
-| Size | Link |
-|------|------|
-| 16   | [https://docs.i11n.io/assets/img/logos/png/16/projects/zds/avatar/stroked.v1.png](https://docs.i11n.io/assets/img/logos/png/16/projects/zds/avatar/stroked.v1.png) |
-| 32   | [https://docs.i11n.io/assets/img/logos/png/32/projects/zds/avatar/stroked.v1.png](https://docs.i11n.io/assets/img/logos/png/32/projects/zds/avatar/stroked.v1.png) |
-| 64   | [https://docs.i11n.io/assets/img/logos/png/64/projects/zds/avatar/stroked.v1.png](https://docs.i11n.io/assets/img/logos/png/64/projects/zds/avatar/stroked.v1.png) |
+| Size | Link                                                                                                                                                                 |
+| ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 16   | [https://docs.i11n.io/assets/img/logos/png/16/projects/zds/avatar/stroked.v1.png](https://docs.i11n.io/assets/img/logos/png/16/projects/zds/avatar/stroked.v1.png)   |
+| 32   | [https://docs.i11n.io/assets/img/logos/png/32/projects/zds/avatar/stroked.v1.png](https://docs.i11n.io/assets/img/logos/png/32/projects/zds/avatar/stroked.v1.png)   |
+| 64   | [https://docs.i11n.io/assets/img/logos/png/64/projects/zds/avatar/stroked.v1.png](https://docs.i11n.io/assets/img/logos/png/64/projects/zds/avatar/stroked.v1.png)   |
 | 128  | [https://docs.i11n.io/assets/img/logos/png/128/projects/zds/avatar/stroked.v1.png](https://docs.i11n.io/assets/img/logos/png/128/projects/zds/avatar/stroked.v1.png) |
 | 256  | [https://docs.i11n.io/assets/img/logos/png/256/projects/zds/avatar/stroked.v1.png](https://docs.i11n.io/assets/img/logos/png/256/projects/zds/avatar/stroked.v1.png) |
 | 512  | [https://docs.i11n.io/assets/img/logos/png/512/projects/zds/avatar/stroked.v1.png](https://docs.i11n.io/assets/img/logos/png/512/projects/zds/avatar/stroked.v1.png) |
@@ -211,11 +211,11 @@
 
 ##### Variants
 
-| Size | Link |
-|------|------|
-| 16   | [https://docs.i11n.io/assets/img/logos/png/16/projects/zeta/logo/filled.v1.png](https://docs.i11n.io/assets/img/logos/png/16/projects/zeta/logo/filled.v1.png) |
-| 32   | [https://docs.i11n.io/assets/img/logos/png/32/projects/zeta/logo/filled.v1.png](https://docs.i11n.io/assets/img/logos/png/32/projects/zeta/logo/filled.v1.png) |
-| 64   | [https://docs.i11n.io/assets/img/logos/png/64/projects/zeta/logo/filled.v1.png](https://docs.i11n.io/assets/img/logos/png/64/projects/zeta/logo/filled.v1.png) |
+| Size | Link                                                                                                                                                             |
+| ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 16   | [https://docs.i11n.io/assets/img/logos/png/16/projects/zeta/logo/filled.v1.png](https://docs.i11n.io/assets/img/logos/png/16/projects/zeta/logo/filled.v1.png)   |
+| 32   | [https://docs.i11n.io/assets/img/logos/png/32/projects/zeta/logo/filled.v1.png](https://docs.i11n.io/assets/img/logos/png/32/projects/zeta/logo/filled.v1.png)   |
+| 64   | [https://docs.i11n.io/assets/img/logos/png/64/projects/zeta/logo/filled.v1.png](https://docs.i11n.io/assets/img/logos/png/64/projects/zeta/logo/filled.v1.png)   |
 | 128  | [https://docs.i11n.io/assets/img/logos/png/128/projects/zeta/logo/filled.v1.png](https://docs.i11n.io/assets/img/logos/png/128/projects/zeta/logo/filled.v1.png) |
 | 256  | [https://docs.i11n.io/assets/img/logos/png/256/projects/zeta/logo/filled.v1.png](https://docs.i11n.io/assets/img/logos/png/256/projects/zeta/logo/filled.v1.png) |
 | 512  | [https://docs.i11n.io/assets/img/logos/png/512/projects/zeta/logo/filled.v1.png](https://docs.i11n.io/assets/img/logos/png/512/projects/zeta/logo/filled.v1.png) |
@@ -228,11 +228,11 @@
 
 ##### Variants
 
-| Size | Link |
-|------|------|
-| 16   | [https://docs.i11n.io/assets/img/logos/png/16/projects/zeta/logo/stroked.v1.png](https://docs.i11n.io/assets/img/logos/png/16/projects/zeta/logo/stroked.v1.png) |
-| 32   | [https://docs.i11n.io/assets/img/logos/png/32/projects/zeta/logo/stroked.v1.png](https://docs.i11n.io/assets/img/logos/png/32/projects/zeta/logo/stroked.v1.png) |
-| 64   | [https://docs.i11n.io/assets/img/logos/png/64/projects/zeta/logo/stroked.v1.png](https://docs.i11n.io/assets/img/logos/png/64/projects/zeta/logo/stroked.v1.png) |
+| Size | Link                                                                                                                                                               |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 16   | [https://docs.i11n.io/assets/img/logos/png/16/projects/zeta/logo/stroked.v1.png](https://docs.i11n.io/assets/img/logos/png/16/projects/zeta/logo/stroked.v1.png)   |
+| 32   | [https://docs.i11n.io/assets/img/logos/png/32/projects/zeta/logo/stroked.v1.png](https://docs.i11n.io/assets/img/logos/png/32/projects/zeta/logo/stroked.v1.png)   |
+| 64   | [https://docs.i11n.io/assets/img/logos/png/64/projects/zeta/logo/stroked.v1.png](https://docs.i11n.io/assets/img/logos/png/64/projects/zeta/logo/stroked.v1.png)   |
 | 128  | [https://docs.i11n.io/assets/img/logos/png/128/projects/zeta/logo/stroked.v1.png](https://docs.i11n.io/assets/img/logos/png/128/projects/zeta/logo/stroked.v1.png) |
 | 256  | [https://docs.i11n.io/assets/img/logos/png/256/projects/zeta/logo/stroked.v1.png](https://docs.i11n.io/assets/img/logos/png/256/projects/zeta/logo/stroked.v1.png) |
 | 512  | [https://docs.i11n.io/assets/img/logos/png/512/projects/zeta/logo/stroked.v1.png](https://docs.i11n.io/assets/img/logos/png/512/projects/zeta/logo/stroked.v1.png) |
@@ -247,11 +247,11 @@
 
 ##### Variants
 
-| Size | Link |
-|------|------|
-| 16   | [https://docs.i11n.io/assets/img/logos/png/16/projects/zeta/avatar/filled.v1.png](https://docs.i11n.io/assets/img/logos/png/16/projects/zeta/avatar/filled.v1.png) |
-| 32   | [https://docs.i11n.io/assets/img/logos/png/32/projects/zeta/avatar/filled.v1.png](https://docs.i11n.io/assets/img/logos/png/32/projects/zeta/avatar/filled.v1.png) |
-| 64   | [https://docs.i11n.io/assets/img/logos/png/64/projects/zeta/avatar/filled.v1.png](https://docs.i11n.io/assets/img/logos/png/64/projects/zeta/avatar/filled.v1.png) |
+| Size | Link                                                                                                                                                                 |
+| ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 16   | [https://docs.i11n.io/assets/img/logos/png/16/projects/zeta/avatar/filled.v1.png](https://docs.i11n.io/assets/img/logos/png/16/projects/zeta/avatar/filled.v1.png)   |
+| 32   | [https://docs.i11n.io/assets/img/logos/png/32/projects/zeta/avatar/filled.v1.png](https://docs.i11n.io/assets/img/logos/png/32/projects/zeta/avatar/filled.v1.png)   |
+| 64   | [https://docs.i11n.io/assets/img/logos/png/64/projects/zeta/avatar/filled.v1.png](https://docs.i11n.io/assets/img/logos/png/64/projects/zeta/avatar/filled.v1.png)   |
 | 128  | [https://docs.i11n.io/assets/img/logos/png/128/projects/zeta/avatar/filled.v1.png](https://docs.i11n.io/assets/img/logos/png/128/projects/zeta/avatar/filled.v1.png) |
 | 256  | [https://docs.i11n.io/assets/img/logos/png/256/projects/zeta/avatar/filled.v1.png](https://docs.i11n.io/assets/img/logos/png/256/projects/zeta/avatar/filled.v1.png) |
 | 512  | [https://docs.i11n.io/assets/img/logos/png/512/projects/zeta/avatar/filled.v1.png](https://docs.i11n.io/assets/img/logos/png/512/projects/zeta/avatar/filled.v1.png) |
@@ -264,11 +264,11 @@
 
 ##### Variants
 
-| Size | Link |
-|------|------|
-| 16   | [https://docs.i11n.io/assets/img/logos/png/16/projects/zeta/avatar/stroked.v1.png](https://docs.i11n.io/assets/img/logos/png/16/projects/zeta/avatar/stroked.v1.png) |
-| 32   | [https://docs.i11n.io/assets/img/logos/png/32/projects/zeta/avatar/stroked.v1.png](https://docs.i11n.io/assets/img/logos/png/32/projects/zeta/avatar/stroked.v1.png) |
-| 64   | [https://docs.i11n.io/assets/img/logos/png/64/projects/zeta/avatar/stroked.v1.png](https://docs.i11n.io/assets/img/logos/png/64/projects/zeta/avatar/stroked.v1.png) |
+| Size | Link                                                                                                                                                                   |
+| ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 16   | [https://docs.i11n.io/assets/img/logos/png/16/projects/zeta/avatar/stroked.v1.png](https://docs.i11n.io/assets/img/logos/png/16/projects/zeta/avatar/stroked.v1.png)   |
+| 32   | [https://docs.i11n.io/assets/img/logos/png/32/projects/zeta/avatar/stroked.v1.png](https://docs.i11n.io/assets/img/logos/png/32/projects/zeta/avatar/stroked.v1.png)   |
+| 64   | [https://docs.i11n.io/assets/img/logos/png/64/projects/zeta/avatar/stroked.v1.png](https://docs.i11n.io/assets/img/logos/png/64/projects/zeta/avatar/stroked.v1.png)   |
 | 128  | [https://docs.i11n.io/assets/img/logos/png/128/projects/zeta/avatar/stroked.v1.png](https://docs.i11n.io/assets/img/logos/png/128/projects/zeta/avatar/stroked.v1.png) |
 | 256  | [https://docs.i11n.io/assets/img/logos/png/256/projects/zeta/avatar/stroked.v1.png](https://docs.i11n.io/assets/img/logos/png/256/projects/zeta/avatar/stroked.v1.png) |
 | 512  | [https://docs.i11n.io/assets/img/logos/png/512/projects/zeta/avatar/stroked.v1.png](https://docs.i11n.io/assets/img/logos/png/512/projects/zeta/avatar/stroked.v1.png) |

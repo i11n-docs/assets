@@ -19,4 +19,3 @@
   <a href="/assets/project-logos" title="Project logos">Project logos</a> &nbsp; &nbsp;
   <a href="/assets/repo-banners" title="Repo banners">Repo banners</a>
 </p>
-
