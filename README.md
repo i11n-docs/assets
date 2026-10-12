@@ -3,7 +3,7 @@
   <a href="https://integereleven.com" title="integereleven website">
     <img
       alt="integereleven logo"
-      src="https://docs.i11n.io/assets/img/logos/png/256/brand/text/stroked.v1.png"
+      src="https://docs.i11n.io/assets/img/png/128/banner.png"
     />
   </a>
   <br />

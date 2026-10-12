@@ -93,7 +93,7 @@
 1. Download the `.zip` file [https://docs.i11n.io/assets/img/favicon.zip](https://docs.i11n.io/assets/img/favicon.zip)
 2. Extract the `.zip` to the web site root.
 3. Insert the code below.
-  ```
+  ```html
   <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
   <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
   <link rel="shortcut icon" href="/favicon.ico" />
