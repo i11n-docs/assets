@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="/assets" title="Home">Home</a> &nbsp; &nbsp;
-  <a href="/assets/brand-logos" title="Brand logos">Brand logos</a> &nbsp; &nbsp;
+  <a href="/assets-logos" title="Brand logos">Brand logos</a> &nbsp; &nbsp;
   <!-- <a href="/assets/project-logos" title="Project logos">Project logos</a> &nbsp; &nbsp;
   <a href="/assets/repo-banners" title="Repo banners">Repo banners</a> -->
 </p>
@@ -27,12 +27,12 @@
 
 | Size | Link                                                                                                                                               |
 | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 16   | [https://docs.i11n.io/assets/png/16/brand/integereleven.png](https://docs.i11n.io/assets/png/16/brand/integereleven.png)   |
+| 16   | [https://docs.i11n.io/assets/png/16/integereleven.png](https://docs.i11n.io/assets/png/16/integereleven.png)   |
 | 32   | [https://docs.i11n.io/assets/png/16/integereleven.png](https://docs.i11n.io/assets/png/16/integereleven.png)   |
-| 64   | [https://docs.i11n.io/assets/png/64/brand/integereleven.png](https://docs.i11n.io/assets/png/64/brand/integereleven.png)   |
-| 128  | [https://docs.i11n.io/assets/png/128/brand/integereleven.png](https://docs.i11n.io/assets/png/128/brand/integereleven.png) |
-| 256  | [https://docs.i11n.io/assets/png/256/brand/integereleven.png](https://docs.i11n.io/assets/png/256/brand/integereleven.png) |
-| 512  | [https://docs.i11n.io/assets/png/512/brand/integereleven.png](https://docs.i11n.io/assets/png/512/brand/integereleven.png) |
+| 64   | [https://docs.i11n.io/assets/png/64/integereleven.png](https://docs.i11n.io/assets/png/64/integereleven.png)   |
+| 128  | [https://docs.i11n.io/assets/png/128/integereleven.png](https://docs.i11n.io/assets/png/128/integereleven.png) |
+| 256  | [https://docs.i11n.io/assets/png/256/integereleven.png](https://docs.i11n.io/assets/png/256/integereleven.png) |
+| 512  | [https://docs.i11n.io/assets/png/512/integereleven.png](https://docs.i11n.io/assets/png/512/integereleven.png) |
 
 ## ixin text
 
